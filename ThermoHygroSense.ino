@@ -28,7 +28,7 @@ String GAS_ID = "WebApps"; //--> spreadsheet script ID
 
 //-------------end WiFi----
 
-float thi; float t; float h; float nt; float nh; String latong = "1.5459771077916329,103.79077517258013"; String  statusthi; 
+float thi; float t; float h; float nt; float nh; String latong = "lat, long"; String  statusthi; 
 
 void setup() {
   Wire.begin();
